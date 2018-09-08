@@ -22,9 +22,9 @@ The following figure shows the relationship between the dimensionality of the sp
 If you use the embeddings in your work, please consider citing:
 ```
 @inproceedings{chung2018speech2vec,
-title     = {Speech2vec: A sequence-to-sequence framework for learning word embeddings from speech},
-author    = {Chung, Yu-An and Glass, James},
-booktitle = {INTERSPEECH},
-year      = {2018}
+  title     = {Speech2vec: A sequence-to-sequence framework for learning word embeddings from speech},
+  author    = {Chung, Yu-An and Glass, James},
+  booktitle = {INTERSPEECH},
+  year      = {2018}
 }
 ```
